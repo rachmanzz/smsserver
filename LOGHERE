@@ -1,0 +1,6 @@
+errors 
+/^Pendaftaran ([a-zA-Z]+)#([a-zA-Z\\s]+)#([a-zA-Z]+)#([0-9]{6})$/ 
+Pendaftaran Rahman#Lombok Timur#Selong#080491# 
+errors 
+/^Pendaftaran ([a-zA-Z]+)#([a-zA-Z\\s]+)#([a-zA-Z]+)#([0-9]{6})$/ 
+Pendaftaran Rahman#Lombok Timur#Selong#181129 
