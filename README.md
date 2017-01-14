@@ -1,5 +1,5 @@
 # smsserver
-sms server dengan gammu  versi 1.33.0
+sms server dengan laravel + gammu  versi 1.33.0
 
 instalasi :
 pastikan configurasi gamu sudah benar ( gammurc, dan smsdrc ) database pakai native_mysql
