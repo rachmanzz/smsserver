@@ -19,3 +19,4 @@ jalankan gammu smsdrc
 
 
 
+preview http://bit.ly/2ix4fUl
